@@ -33,7 +33,7 @@ body {
     transition: transform 300ms ease-in-out;
 }
 
-.cartao__conteudo h3 {
+.cartao__conteudo h3 {mg/bg-mobile.webp
     color: var(--text-color);
     border: 1px solid var(--text-color);
     text-align: left;
